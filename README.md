@@ -16,10 +16,14 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> ★★★☆   
 <img src="https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=Shell&logoColor=white"/></a> ★★★   
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> ★★★   
-<img src="https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=Perl&logoColor=white"/></a> ★★☆   
-<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a> ★★☆   
+<img src="https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=Perl&logoColor=white"/></a> ★★   
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a> ★★   
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> ★★   
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> ★☆   
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a> ★☆   
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> ★   
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a> ★   
 ##
+### 프로그래밍 작성 스타일(Python 예시)
+#### 첫 줄에 종종 # -*- encoding:utf-8** -*-을 넣습니다.
+#### 버전 관리 #!/usr/bin/python
