@@ -2,12 +2,6 @@
 ## 입사 : 2001
 ## 퇴사 : 2103
 ## 기간 : 1년 3개월
-   
-### 작성 언어
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-   
-<img src="https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=Shell&logoColor=white"/></a>
-##
 ### 업무
 #### 1. 앙팡가드 : 신생아 유전체 CNV (Copy Number Variant) 분석 서비스
 검사, 분석, 개발 및 업데이트를 담당(메인)
