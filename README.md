@@ -9,6 +9,8 @@
 <img src="https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=Shell&logoColor=white"/></a>
 #### 대부분 python으로 작업하였습니다.
 ### 사용 가능 언어
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>   
+<img src="https://img.shields.io/badge/C sharp-FFD500?style=flat-square&logo=Shell&logoColor=white"/></a>   
 <img src="https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=Shell&logoColor=white"/></a>   
-<img src="https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=Shell&logoColor=white"/></a>   
+
 ##
