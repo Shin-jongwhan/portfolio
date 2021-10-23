@@ -32,8 +32,8 @@
 #### 버전 관리를 위해 종종 #!/usr/bin/python을 활용합니다.
 #### 그 다음 import 모듈, global variant, function definition (함수), main 함수 순으로 작성합니다.
 #### 함수명의 첫 머리는 대부분 소문자로 작성하지만 규칙에 따라 대문자로 작성할 때도 있습니다.
-##### ex) def definition() : 주로 쓰는 방식
-##### ex) def Definition() : 
+ex) def definition() : 주로 쓰는 방식   
+ex) def Definition() : 
 #### 변수명 규칙 1 : 첫 머리에 변수의 type을 알 수 있게 명명하여 씁니다.
 리스트 lsList   
 딕셔너리 dicDictionary   
