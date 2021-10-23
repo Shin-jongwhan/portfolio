@@ -19,7 +19,12 @@
 #### 유니스트에서 리눅스, 맵핑 소프트웨어인 bowtie, DEG (Differential Expressed Gene) 분석 툴인 cufflinks와 cuffdiff를 배웠습니다. 
 #### 그리고 NCBI에서 SRA 다운로드 하는 방법 등 연구에 유용한 툴 사용법도 배울 수 있었습니다.
 #### 실험실에서는 식물의 miRNA를 분석하기 위해 mirPlant, mirDeep, RNAfold, QuickMirSeq의 사용법을 익혔습니다.
+#### 분석 툴들은 어느 정도 한계가 있었습니다. 그래서 sam file을 sam flag와 시퀀스 정렬 등을 활용하여 새롭게 분석할 수 있는 프로그램(스크립트)도 개발하였습니다.
 
 ### 실험(wet)
 #### 배웠던 실험 : PCR, 클로닝, 블랏(웨스턴블랏 등), gene transformation(E. coli -> 식물, 식물 -> E. coli 등)
 #### 그외 : yeast two hybrid, Co-IP (co-ImmunoPrecipitation) 등
+
+### 자퇴 사유
+#### 교수님께 BI 관련해서는 칭찬도 많이 받았으나 wet 실험 관련하여 퍼포먼스가 부족했습니다.
+#### 주요한 실험 방향이 달라 자퇴를 결정했습니다.
