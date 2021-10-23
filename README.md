@@ -35,9 +35,9 @@
 ##### ex) def definition() : 주로 쓰는 방식
 ##### ex) def Definition() : 
 #### 변수명 규칙 1 : 첫 머리에 변수의 type을 알 수 있게 명명하여 씁니다.
-##### 리스트 lsList
-##### 딕셔너리 dicDictionary
-##### 인트 nInt
-##### 플롯 flFloat
+리스트 lsList   
+딕셔너리 dicDictionary   
+인트 nInt   
+플롯 flFloat   
 #### 변수명 규칙 2 : 단어를 구분해야 할 경우 underbar를 씁니다.
 ##### ex) nInt_something
