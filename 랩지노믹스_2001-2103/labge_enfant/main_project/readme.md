@@ -19,4 +19,9 @@
 #### 검사 업무를 자동화한 프로그램입니다.
 #### statistics_seg_analysis.py는 양성 / 음성 파악을 실제로 잘 분석했는지 통계를 냅니다(프로그램의 신뢰성을 위한 재분석).
 ### 진행했던 업무
-#### 모든 코드 작성하였습니다.
+#### 1) quality check : 파일명이나 디렉터리에 오류 있는지, GC ratio, MAD (median absolute deviation) 등 퀄리티 체크를 합니다.
+#### 2) segment가 앙팡가드 질병 영역 안에 있는지, 있다면 주요유전자는 포함 유무는 어떠한지 등을 파악합니다.
+#### 3) ISCA gene, panel gene, refSeq gene, Clinvar 등 reference file에 matching합니다.
+#### 4) segment, 질병, gene 등의 정보를 취합합니다.
+#### 5) DB와 연동하여 문제가 성별 등 분석 상 문제가 있는지 파악합니다.
+#### 6) output 파일을 도출합니다.
