@@ -32,13 +32,13 @@
 #### 버전 관리를 위해 종종 #!/usr/bin/python을 활용합니다.
 #### 그 다음 import 모듈, global variant, function definition (함수), main 함수 순으로 작성합니다.
 #### 함수명의 첫 머리는 대부분 소문자로 작성하지만 규칙에 따라 대문자로 작성할 때도 있습니다.
-ex) def definition() : 주로 쓰는 방식   
-ex) def Definition() : 
+ - def definition() : 주로 쓰는 방식   
+ - def Definition() : 
 #### 변수명 규칙 1 : 첫 머리에 변수의 type을 알 수 있게 명명하여 씁니다.
  - 리스트 lsList   
  - 딕셔너리 dicDictionary   
  - 인트 nInt   
  - 플롯 flFloat
 #### 변수명 규칙 2 : 단어를 구분해야 할 경우 underbar를 씁니다.
-##### ex) nInt_something
+ - nInt_something
 ##### * 소문자 i와 대문자 I를 구분할 수 있는 폰트를 씁니다.   
