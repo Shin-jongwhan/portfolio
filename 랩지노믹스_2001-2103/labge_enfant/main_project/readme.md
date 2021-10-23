@@ -5,11 +5,11 @@
 #### CNV를 분석해주는 CopywriteR이 실행된 후에 1~22번, X, Y 염색체의 각 window (50000bp)를 분석합니다.
 #### 다양한 cutoff를 거쳐 앙팡가드에서 분석하는 질병 목록에 해당하는 이수성이 있는지 분석하여 최종 output을 도출합니다.
 ### 진행했던 업무
-#### 1. check_call 기능 업데이트
+#### 1) check_call 기능 업데이트
 #### CNV 관련하여 decision call에서 잡히지 않는 segment들이 발생합니다.
 #### significant한 변이는 아닙니다. 다만 확인은 필요한 segment들입니다.
 #### 확인이 필요한 segment만 따로 분류하여 최종 output에 check call이라는 데이터가 나오도록 하였습니다.
-#### 2. cutoff 조정
+#### 2) cutoff 조정
 #### 앙팡가드 서비스 기간 동안 쌓여온 데이터를 기반으로 하여 여러 번의 테스트를 거쳐 양성 / 음성 분석의 기준을 조정하였습니다.
 ##
 ## 2. seg_analysis_jh_210127.py
