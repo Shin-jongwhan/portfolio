@@ -41,4 +41,4 @@ ex) def Definition() :
 플롯 flFloat
 #### 변수명 규칙 2 : 단어를 구분해야 할 경우 underbar를 씁니다.
 ##### ex) nInt_something
-##### * 소문자 i와 대문자 I를 구분할 수 있는 폰트를 씁니다.   
+ * 소문자 i와 대문자 I를 구분할 수 있는 폰트를 씁니다.   
