@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> ★★★★★   
 <img src="https://img.shields.io/badge/C sharp-239120?style=flat-square&logo=C sharp&logoColor=white"/></a> ★★★☆   
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a> ★★★☆   
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> ★★★☆   
 <img src="https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=Shell&logoColor=white"/></a> ★★★   
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> ★★★   
 <img src="https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=Perl&logoColor=white"/></a> ★★☆   
