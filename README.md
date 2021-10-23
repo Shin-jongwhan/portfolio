@@ -38,6 +38,6 @@ ex) def Definition() :
 리스트 lsList   
 딕셔너리 dicDictionary   
 인트 nInt   
-플롯 flFloat   
+플롯 flFloat
 #### 변수명 규칙 2 : 단어를 구분해야 할 경우 underbar를 씁니다.
 ##### ex) nInt_something
