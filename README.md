@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a> ★   
 ##
 ### 프로그래밍 작성 스타일(Python 예시)
-#### 인코딩 방식을 바꾸기 위해 종종 # -**- encoding:utf-8 -**- 을 활용합니다. 
+#### 인코딩 방식을 바꾸기 위해 종종 # -별- encoding:utf-8 -별- 을 활용합니다. 
 #### 버전 관리를 위해 종종 #!/usr/bin/python을 활용합니다.
 #### 그 다음 import 모듈, global variant, function definition (함수), main 함수 순으로 작성합니다.
 #### 함수명의 첫 머리는 대부분 소문자로 작성하지만 규칙에 따라 대문자로 작성할 때도 있습니다(유연하게 대처).
