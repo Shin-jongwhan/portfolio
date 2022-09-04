@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=Shell&logoColor=white"/></a>
 #### 대부분 python으로 작업하였습니다.
 ### 사용 가능 언어 / 능력
-#### * 별 4-5개 : 혼자서 프로젝트 수행 가능 및 경험 / 3개 : 업무 및 보조 가능 / 2개 : 업무적인 활용 지식 있음 / 1개 : 기초 문법
+#### * 별 4-5개 : 혼자서 프로젝트 수행 가능 및 경험 <br/> 3개 : 업무 및 보조 가능 <br/> 2개 : 업무적인 활용 지식 있음 <br/> 1개 : 기초 문법
 #### 언어
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> ★★★★★   
 <img src="https://img.shields.io/badge/C sharp-239120?style=flat-square&logo=C sharp&logoColor=white"/></a> ★★★★   
