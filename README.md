@@ -3,7 +3,9 @@
 ##
 ### 모든 자료는 Private으로 설정되어 있습니다.
 ### 스크립트는 오직 포트폴리오로만 이용하며 그 외 목적으로는 공개하지 않습니다.
-##
+
+## <br/><br/><br/>
+
 ### 작성 언어
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C sharp-239120?style=flat-square&logo=C sharp&logoColor=white"/></a>
@@ -32,7 +34,8 @@
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/></a> ★☆   
 <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=Celery&logoColor=white"/></a> ★☆   
 
-##
+## <br/><br/><br/>
+
 ### 프로그래밍 작성 스타일(Python 예시)
 #### 인코딩 방식을 바꾸기 위해 종종 # -별- encoding:utf-8 -별- 을 활용합니다. 
 #### 버전 관리를 위해 종종 #!/usr/bin/python을 활용합니다.
@@ -48,3 +51,5 @@
 #### 변수명 규칙 2 : 단어를 구분해야 할 경우 underbar를 씁니다.
  - nInt_something
    * 소문자 i와 대문자 I를 구분할 수 있는 폰트를 씁니다.   
+
+## <br/><br/><br/>
