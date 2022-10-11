@@ -1,3 +1,12 @@
+# 싸이토젠
+## 입사 : 2111
+## 퇴사 : 2202
+## 기간 : 3개월
+### 업무
+#### 1. NGS 시퀀싱 플랫폼인 Iontorrent 기반의 데이터로 분석 파이프라인 개발 - TCR / BCR 분석, iontorrent 와 데이터 비교 검증 방법 개발
+
+### <br/><br/><br/>
+
 ## DB 서버 구축
 [아파치 - MySQL - phpMyAdmin 연동](https://github.com/Shin-jongwhan/apache_mysql_phpmyadmin)
 
