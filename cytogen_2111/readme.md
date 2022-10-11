@@ -45,7 +45,9 @@
 #### x : 기능 추가, 분석 최적화를 위한 코드 재작성 등 메이저한 업데이트
 #### y : 기능 변경
 #### z : 에러 수정, 주석 등 관리
-###
+
+### <br/><br/><br/>
+
 ## blast 알고리즘 개발(smith waterman algorithm, local alignment)
 ![Smith-Waterman-Algorithm-Example](https://user-images.githubusercontent.com/62974484/148687932-3c499232-5a6d-4d2e-bba8-c5586ec14d10.gif)
 ![smith waterman algorithm blast](https://user-images.githubusercontent.com/62974484/148882307-012a06b6-aed2-4b05-99e5-490d3cae12cf.PNG)
