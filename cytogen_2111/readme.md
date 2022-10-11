@@ -14,12 +14,10 @@
 
 ## sequencing platform
 ### iontorrent
-## 
 ## 개발 환경
 ### iontorrent - ionsuite : Ubuntu 18.04.6 LTS
 ### iontorrent - ionreporter : Ubuntu 18.04.2 LTS
 ### cytogen 분석 서버 : CentOS Linux release 7.9.2009 (Core)
-## 
 ## 업무
 ### iontorrent 분석 결과에 대해 유의미한 결과를 찾기 위한 추가 분석 프로그램을 개발
 #### vcf 결과 분석
