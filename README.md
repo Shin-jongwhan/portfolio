@@ -66,3 +66,16 @@
    * 소문자 i와 대문자 I를 구분할 수 있는 폰트를 씁니다.   
 
 ### <br/><br/><br/>
+
+## Other project
+### [freelancer site](https://shin-jongwhan.github.io/stockop_outsourcing/)
+### <br/>
+### [인스타그램 클론 웹 개발](https://github.com/Shin-jongwhan/django_web_tutorial)
+### <br/>
+### AWS
+- [AWS 교육](https://github.com/Shin-jongwhan/AWS_lecture)
+- [AWS S3](https://github.com/Shin-jongwhan/AWS)
+### <br/>
+### [google translate API](https://github.com/Shin-jongwhan/google_API_translate)
+- (google 번역을 이용한 웹 서비스 아이디어가 있었습니다.)
+### [docker](https://github.com/Shin-jongwhan/docker)
