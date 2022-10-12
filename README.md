@@ -84,6 +84,8 @@
 ### [phpmyadmin](https://github.com/Shin-jongwhan/apache_mysql_phpmyadmin)
 ### <br/>
 ### [개인블로그](https://meowtail001.tistory.com/)
+### <br/>
+### [SQL test](https://github.com/Shin-jongwhan/SQL_test)
 
 ### <br/><br/><br/>
 
