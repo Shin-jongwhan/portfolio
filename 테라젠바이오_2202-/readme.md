@@ -81,18 +81,18 @@
 
 ## WES
 ### WES 파이프라인을 위한 스크립트
-#### https://github.com/Shin-jongwhan/theragenbio_2202/tree/main/WES
+#### https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/WES
 ### optitype (HLA class I) 분석을 위한 파이프라인
-#### https://github.com/Shin-jongwhan/theragenbio_2202/tree/main/WES/optitype
+#### https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/WES/optitype
 ### hisatgenotype (HLA class II) 분석을 위한 파이프라인
-#### https://github.com/Shin-jongwhan/theragenbio_2202/tree/main/WES/hisat_genotype
+#### https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/WES/hisat_genotype
 ### configmaker 에서 지원하지 않고 manual 로 config 를 만들어야 할 때 사용하는 스크립트
-#### https://github.com/Shin-jongwhan/theragenbio_2202/tree/main/WES/manual_anal_config
+#### https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/WES/manual_anal_config
 ### 기존 WES 파이프라인에서 지원하지 않는 annotation 을 추가
-#### https://github.com/Shin-jongwhan/theragenbio_2202/tree/main/WES/snpeff_addon_db
+#### https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/WES/snpeff_addon_db
 ### WES 파이프라인 이후 나온 vcf 를 snpeff annotated vcf 필터링해주는 기능
-#### https://github.com/Shin-jongwhan/theragenbio_2202/tree/main/WES/snpeff_tsv_filter
+#### https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/WES/snpeff_tsv_filter
 ### somatic mutation 추가 분석 (mutect2) 파이프라인
-#### https://github.com/Shin-jongwhan/theragenbio_2202/tree/main/WES/wes_mutect2
+#### https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/WES/wes_mutect2
 
 ### <br/><br/><br/>
