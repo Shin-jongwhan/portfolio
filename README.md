@@ -1,7 +1,7 @@
 # portfolio
 ## These files all belong to me.
 ## 221012 업데이트 진행 중...
-### 소스 코드는 보안 이슈로 공개 범위 내에서만 공개하며 면접 시에만 소개합니다.
+### 소스 코드는 보안 이슈로 공개 범위 내에서만 공개합니다.
 
 ### <br/><br/><br/>
 
@@ -31,6 +31,8 @@
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a> ★★★★   
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> ★★★☆   
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a> ★★★   
+<img src="https://img.shields.io/badge/AWS-#232F3E?style=flat-square&logo=AWS&logoColor=white"/></a> ★★☆   
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a> ★★☆   
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a> ★★   
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/></a> ★☆   
 <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=Celery&logoColor=white"/></a> ★☆   
