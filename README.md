@@ -70,10 +70,6 @@
 ## Other project
 ### [깃허브 repo](https://github.com/Shin-jongwhan?tab=repositories)
 ### <br/>
-### [개인블로그](https://meowtail001.tistory.com)
-### <br/>
-### [유튜브](https://www.youtube.com/c/meowtailO3O)
-### <br/>
 ### [NFT opensea](https://opensea.io/artisen)
 
 ### <br/><br/><br/>
