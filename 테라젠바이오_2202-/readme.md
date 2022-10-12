@@ -23,76 +23,76 @@
 
 ## rawdata
 ### rawreaddeliver 와 연계된 프로그램, rawreaddeliver 이후 처리해야하는 것에 대한 프로그램들이다.
-#### https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/rawdata
+#### [rawdata](https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/rawdata)
 
 ### <br/><br/><br/>
 
 ## neoantigen 분석 파이프라인 구축
 ### WES 기반이며 HLA I (optitype 결과), cufflinks (FPKM 결과), GATK mutect2 결과를 input 으로 하여 pvacseq 이라는 tool 을 사용하여 신항원 예측을 해주는 파이프라인이다.
-#### https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/neoantigen_pvacseq
+#### [neoantigen](https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/neoantigen_pvacseq)
 
 ### <br/><br/><br/>
 
 ## igblast
 ### igblast 이론 및 실습 교육 자료 작성, 발표
-#### https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/igblast
+#### [igblast](https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/igblast)
 
 ### <br/><br/><br/>
 
 ## configmaker
 ### 다양한 파이프라인에서 필요한 config, 파이프라인을 실행하기 위한 (ready to execute) 전처리기
-#### https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/configmaker
-#### https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/config-maker-v2
+#### [configmaker](https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/configmaker)
+#### [configmaker-v2](https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/config-maker-v2)
 
 ### <br/><br/><br/>
 
 ## class
 ### 개인적으로 관리하는 파이썬 class 모듈이다.
 ### 경로는 .bashrc 에 등록, import 하여 사용한다.
-#### https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/class
+#### [class 모듈](https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/class)
 
 ### <br/><br/><br/>
 
 ## WGS_nonhuman
 ### WGS_nonhuman 파이프라인을 위한 스크립트
-#### https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/WGS_nonhuman
+#### [WGS_nonhuman](https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/WGS_nonhuman)
 
 ### <br/><br/><br/>
 
 ## WGS_human
 ### WGS_nonhuman 파이프라인을 위한 스크립트
 ### WGS_human 분석 이후 CNV 분석 (cnvkit) 파이프라인
-#### https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/WGS_human/cnvkit
+#### [WGS_human - cnvkit](https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/WGS_human/cnvkit)
 ### 한국화학융합시험연구원 전용 WGS human 분석 파이프라인 개발
-#### https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/WGS_human/KTR_WGS
+#### [KTR_WGS_pipeline](https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/WGS_human/KTR_WGS)
 
 ### <br/><br/><br/>
 
 ## WGS_custom
 ### 고객의 요청으로 사내 분석 파이프라인이 없는 것은 별도 개발
 ### 항체 분석 건. 데이터 시각화 plot 자료 제공
-#### https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/WGS_custom/TBD220709_15531_immunoglobulin
+#### [항체 분석](https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/WGS_custom/TBD220709_15531_immunoglobulin)
 ### fastq readcount 분석 - 일정한 길이일 때(특정 read 길이만 분석), 각 포지션, base ratio plot 제공
-#### https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/WGS_custom/wgs_custom_anlbio
+#### [readcount - 일정 길이 분석](https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/WGS_custom/wgs_custom_anlbio)
 ### fastq readcount 분석 - 길이가 일정하지 않을 때(모든 길이 분석)
-#### https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/WGS_custom/wgs_custom_read_count
+#### [readcount - general](https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/WGS_custom/wgs_custom_read_count)
 
 ### <br/><br/><br/>
 
 ## WES
 ### WES 파이프라인을 위한 스크립트
-#### https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/WES
+#### [WES](https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/WES)
 ### optitype (HLA class I) 분석을 위한 파이프라인
-#### https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/WES/optitype
+#### [HLA class I 분석](https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/WES/optitype)
 ### hisatgenotype (HLA class II) 분석을 위한 파이프라인
-#### https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/WES/hisat_genotype
+#### [HLA class I 분석](https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/WES/hisat_genotype)
 ### configmaker 에서 지원하지 않고 manual 로 config 를 만들어야 할 때 사용하는 스크립트
-#### https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/WES/manual_anal_config
+#### [manual config 작성](https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/WES/manual_anal_config)
 ### 기존 WES 파이프라인에서 지원하지 않는 annotation 을 추가
-#### https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/WES/snpeff_addon_db
+#### [annotation addon 프로그램](https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/WES/snpeff_addon_db)
 ### WES 파이프라인 이후 나온 vcf 를 snpeff annotated vcf 필터링해주는 기능
-#### https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/WES/snpeff_tsv_filter
+#### [snpeff annot result filtering](https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/WES/snpeff_tsv_filter)
 ### somatic mutation 추가 분석 (mutect2) 파이프라인
-#### https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/WES/wes_mutect2
+#### [somatic mutation 분석](https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/WES/wes_mutect2)
 
 ### <br/><br/><br/>
