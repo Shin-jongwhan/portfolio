@@ -1,5 +1,6 @@
 # portfolio
 ## These files all belong to me.
+## 221012 업데이트 진행 중...
 
 ### <br/><br/><br/>
 
