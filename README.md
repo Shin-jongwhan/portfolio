@@ -1,6 +1,7 @@
 # portfolio
 ## These files all belong to me.
 ## 221012 업데이트 진행 중...
+### 소스 코드는 보안 이슈로 공개 범위 내에서만 공개하며 면접 시에만 소개합니다.
 
 ### <br/><br/><br/>
 
