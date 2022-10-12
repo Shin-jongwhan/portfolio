@@ -68,7 +68,7 @@
 ### <br/><br/><br/>
 
 ## Other project
-### [깃허브 repo](https://github.com/Shin-jongwhan?tab=repositories)
+### [깃허브 repo 둘러보기](https://github.com/Shin-jongwhan?tab=repositories)
 ### <br/>
 ### [NFT opensea](https://opensea.io/artisen)
 
