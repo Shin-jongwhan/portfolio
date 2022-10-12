@@ -13,11 +13,11 @@
 ## rawreaddeliver
 ### rawreaddeliver index pooling 건 처리 방법 개선
 #### lims 에서 자동으로 처리할 수 없는 건 중의 한 케이스로, 이를 어느 정도 간소화해주는 프로그램입니다.
-#### [rawreaddeliver] https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/rawreaddeliver
+#### [rawreaddeliver](https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/rawreaddeliver)
 ### rawreaddeliver 속도 개선
 ### fastq 전처리, merge, stat 을 계산해주는 파이프라인
 ### cython (파이썬 코드 c 컴파일할 수 있는 언어) 로 개발 후 C 로 개발
-#### [rawreaddeliver 속도 개선] https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/rawreaddeliver/improved
+#### [rawreaddeliver 속도 개선](https://github.com/Shin-jongwhan/portfolio/tree/main/%ED%85%8C%EB%9D%BC%EC%A0%A0%EB%B0%94%EC%9D%B4%EC%98%A4_2202-/rawreaddeliver/improved)
 
 ### <br/><br/><br/>
 
