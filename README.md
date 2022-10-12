@@ -67,25 +67,12 @@
 
 ### <br/><br/><br/>
 
-## Other project, learning
-### [freelancer site](https://shin-jongwhan.github.io/stockop_outsourcing/)
+## Other project
+### [깃허브 repo](https://github.com/Shin-jongwhan?tab=repositories)
 ### <br/>
-### [인스타그램 클론 웹 개발](https://github.com/Shin-jongwhan/django_web_tutorial)
+### [개인블로그](https://meowtail001.tistory.com)
 ### <br/>
-### AWS
-- [AWS 교육](https://github.com/Shin-jongwhan/AWS_lecture)
-- [AWS S3](https://github.com/Shin-jongwhan/AWS)
-### <br/>
-### [google translate API](https://github.com/Shin-jongwhan/google_API_translate)
-- google 번역을 이용한 웹 서비스 아이디어가 있어 서비스 구현을 진행하였었습니다.
-### <br/>
-### [docker](https://github.com/Shin-jongwhan/docker)
-### <br/>
-### [phpmyadmin](https://github.com/Shin-jongwhan/apache_mysql_phpmyadmin)
-### <br/>
-### [개인블로그](https://meowtail001.tistory.com/)
-### <br/>
-### [SQL test](https://github.com/Shin-jongwhan/SQL_test)
+### [유튜브](https://www.youtube.com/c/meowtailO3O)
 
 ### <br/><br/><br/>
 
